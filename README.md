@@ -15,4 +15,4 @@ For requirements:
 <li> Run project_run.py </li>
 </ul>
 
-For more details, please reach out to me at sumedh.khodke@gmail.com
+As part of the NDA, this repo is just a prototype and some of the code and data has been obfuscated. If you wish to collaborate, please reach out to me at sumedh.khodke@gmail.com
